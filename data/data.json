@@ -1,0 +1,34 @@
+{
+    "categories": [
+      {
+        "id": "c1",
+        "name": "CSPM",
+        "widgets": [
+          {
+            "id": "w1",
+            "name": "Widget 1",
+            "text": "This is a sample widget",
+            "isShow":true
+          },
+          {
+            "id": "w2",
+            "name": "Widget 2",
+            "text": "This is another sample widget",
+            "isShow":true
+          }
+        ]
+      }, 
+      {
+        "id": "c2",
+        "name": "CWPP",
+        "widgets": [
+          {
+            "id": "w3",
+            "name": "Widget 3",
+            "text": "Sales data widget",
+            "isShow":true
+          }
+        ]
+      }
+    ] 
+}
